@@ -15,3 +15,5 @@ Parameters:
     - List results in descending (top) or ascending (bottom) order.
 - <integer>, default=10
     - List <limit> matches.
+- [barplot], default=none
+    - Plot the query results in barplot where the x axis is the names of the result from the type of command and y axis is the sorted numbers of them.
